@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\Bài tập năm nhất\C++\C++basic\File\copyfilethucong\Debug\copyfilethucong.exe
+C:\Users\Lenovo\Desktop\Bài tập năm nhất\C++\C++basic\File\copyfile\Debug\copyfilethucong.exe

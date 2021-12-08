@@ -1,0 +1,4 @@
+﻿  copyfilethucong.cpp
+C:\Users\Lenovo\Desktop\Bài tập năm nhất\C++\C++basic\File\copyfile\copyfilethucong.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Desktop\Bài tập năm nhất\C++\C++basic\File\copyfile\copyfilethucong.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  copyfilethucong.vcxproj -> C:\Users\Lenovo\Desktop\Bài tập năm nhất\C++\C++basic\File\copyfile\Debug\copyfilethucong.exe
